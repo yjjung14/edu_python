@@ -29,6 +29,7 @@ student_score = {"영진":100, "영진":100, "승범":90, "연우":70}
 print(student_score)
 print(type(student_score))
 
+
 colors = {"red", "green", "blue","red", "blue", "yellow", "magenta"}
 print(colors)
 print(type(colors))
