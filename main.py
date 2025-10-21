@@ -16,3 +16,4 @@ if __name__ == '__main__':
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 참조
 
 print("start is half")
+print("start is half2")
